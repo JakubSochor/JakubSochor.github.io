@@ -1,0 +1,9 @@
+footer a {
+    color: #aaa;
+}
+
+del {
+    text-decoration: none;
+    color: #d28445;
+    font-weight: bold;
+}

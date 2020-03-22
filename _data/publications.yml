@@ -1,0 +1,76 @@
+- year: 2019
+  papers:
+    - authors: ŠPAŇHEL Jakub, SOCHOR Jakub, JURÁNEK Roman, DOBEŠ Petr, BARTL Vojtěch and HEROUT Adam
+      title: Learning Feature Aggregation in Temporal Domain for Re-Identification
+      journal: Computer Vision and Image Understanding
+      notes: Joint first author, top journal in Computer Vision
+    - authors: JURÁNEK Roman, ŠPAŇHEL Jakub, SOCHOR Jakub, HEROUT Adam and NOVÁK Jan
+      title: Visual Analysis of Vehicle Trajectories for Determining Cross-Sectional Load Density
+      journal: Transactions on Transport Sciences
+
+- year: 2018
+  papers:
+    - authors: SOCHOR Jakub, ŠPAŇHEL Jakub and HEROUT Adam
+      title: "BoxCars: Improving Fine-Grained Recognition of Vehicles using 3-D Bounding Boxes in Traffic Surveillance"
+      journal:  IEEE Transactions on Intelligent Transportation Systems
+      notes: Top journal in Intelligent Transportation Systems
+    - authors: SOCHOR Jakub, JURÁNEK Roman, ŠPAŇHEL Jakub, MARŠÍK Lukáš, ŠIROKÝ Adam, HEROUT Adam and ZEMČÍK Pavel
+      title: Comprehensive Data Set for Automatic Single Camera Visual Speed Measurement
+      journal: IEEE Transactions on Intelligent Transportation Systems
+      notes: Top journal in Intelligent Transportation Systems
+    - authors: ŠPAŇHEL Jakub, SOCHOR Jakub and MAKAROV Aleksej
+      title:  Detection of Traffic Violations of Road Users Based on Convolutional Neural Networks
+      journal: 14th Symposium on Neural Networks and Applications (NEUREL)
+    - authors: ŠPAŇHEL Jakub, SOCHOR Jakub, JURÁNEK Roman and HEROUT Adam
+      title:  Geometric Alignment by Deep Learning for Recognition of Challenging License Plates
+      journal: 21st International Conference on Intelligent Transportation Systems (ITSC)
+      notes: Top conference in Intelligent Transportation Systems
+    - authors: SOCHOR Jakub, ŠPAŇHEL Jakub, JURÁNEK Roman, DOBEŠ Petr and HEROUT Adam
+      title: Graph@FIT Submission to the NVIDIA AI City Challenge 2018
+      journal: NVIDIA AI City Challenge 2018 (CVPRW)
+    - authors: ŠPAŇHEL Jakub, SOCHOR Jakub and MAKAROV Aleksej
+      title: Vehicle Fine-grained Recognition Based on Convolutional Neural Networks for Real-world Application
+      journal: 14th Symposium on Neural Networks and Applications (NEUREL)
+
+
+- year: 2017
+  papers:
+    - authors: SOCHOR Jakub, ŠPAŇHEL Jakub and HEROUT Adam
+      title: "BoxCars: 3D Boxes for Improved Fine-Grained Vehicle Recognition"
+      journal: The Fourth Workshop on Fine-Grained Visual Categorization (CVPRW)
+    - authors: ŠPAŇHEL Jakub, SOCHOR Jakub, JURÁNEK Roman, HEROUT Adam, MARŠÍK Lukáš and ZEMČÍK Pavel
+      title: Holistic Recognition of Low Quality License Plates by CNN using Track Annotated Data
+      journal:  International Workshop on Traffic and Street Surveillance for Safety and Security (AVSS)
+    - authors: SOCHOR Jakub, JURÁNEK Roman and HEROUT Adam
+      title: Traffic Surveillance Camera Calibration by 3D Model Bounding Box Alignment for Accurate Vehicle Speed Measurement
+      journal: Computer Vision and Image Understanding
+      notes: Top journal in Computer Vision
+
+
+- year: 2016
+  papers:
+    - authors: SOCHOR Jakub, HEROUT Adam and HAVEL Jiří
+      title: "BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition"
+      journal: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+      notes: Top conference in Computer Vision
+
+- year: 2015
+  papers:
+    - authors: SZENTANDRÁSI István, ZACHARIÁŠ Michal, KAJAN Rudolf, TINKA Jan, DUBSKÁ Markéta, SOCHOR Jakub and HEROUT Adam
+      title: "INCAST: Interactive Camera Streams for Surveillance Cams AR"
+      journal: 14th IEEE International Symposium on Mixed and Augmented Reality
+      notes: Top conference in Augmented Reality
+    - authors: SOCHOR Jakub and HEROUT Adam
+      title: Unsupervised Processing of Vehicle Appearance for Automatic Understanding in Traffic Surveillance
+      journal: "Digital Image Computing: Techniques and Applications (DICTA)"
+
+
+- year: 2014
+  papers:
+    - authors: DUBSKÁ Markéta, SOCHOR Jakub and HEROUT Adam
+      title: Automatic Camera Calibration for Traffic Understanding
+      journal: British Machine Vision Conference (BMVC)
+    - authors: DUBSKÁ Markéta, HEROUT Adam, JURÁNEK Roman and SOCHOR Jakub
+      title: Fully Automatic Roadside Camera Calibration for Traffic Surveillance
+      journal: IEEE Transactions on Intelligent Transportation Systems
+      notes: Top journal in Intelligent Transportation Systems

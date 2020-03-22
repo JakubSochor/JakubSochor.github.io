@@ -2,8 +2,19 @@ footer a {
     color: #aaa;
 }
 
-del {
-    text-decoration: none;
+.paper-notes {
     color: #d28445;
     font-weight: bold;
+}
+
+.paper-my-name {
+    font-weight: bold;
+}
+
+.paper-title {
+    font-style: italic;
+}
+
+nav {
+ font-weight: bold;
 }

@@ -17,4 +17,21 @@ footer a {
 
 nav {
  font-weight: bold;
+ display: flex;
+ justify-content: space-evenly;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+ul li {
+  padding-left: 0px;
+}
+
+.time-span {
+   font-weight: normal;
+   font-size: 14px;
+   color: #6d6d6d;
+   padding-left: 0.5em;
 }

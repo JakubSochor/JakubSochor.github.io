@@ -21,6 +21,8 @@ url: "https://sochor.me" # the base hostname & protocol for your site, e.g. http
 
 # Build settings
 markdown: kramdown
+kramdown:
+  footnote_backlink: ""
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed

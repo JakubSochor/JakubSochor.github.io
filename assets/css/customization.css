@@ -35,3 +35,7 @@ ul li {
    color: #6d6d6d;
    padding-left: 0.5em;
 }
+
+header h1 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+}

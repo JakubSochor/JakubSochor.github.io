@@ -5,7 +5,7 @@ permalink: /education
 ### [Brno University of Technology, Faculty of Information Technology](https://www.fit.vut.cz)
 #### Ph.D. <span class="time-span">(06/2014 – 06/2018)</span>
  - Focus on Computer Vision and Machine Learning methods 
- - Publications ([list]({% link _pages/publications.md %})) in top journals and conferences (CVPR, CVIU, BMVC, IEEE T-ITS)
+ - [Publications]({% link _pages/publications.md %}) in top journals and conferences (CVPR, CVIU, BMVC, IEEE T-ITS)
  - The contributions to the State of the Art included improved design of Convolution Neural Networks, automatic camera calibration methods, and other
  - Thesis topic: *Automatic Traffic Video Surveillance: Fine-Grained Recognition of Vehicles and Automatic Speed Measurement*
  

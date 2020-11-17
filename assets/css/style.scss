@@ -3,51 +3,24 @@
 
 @import "{{ site.theme }}";
 
+h1 {
+    font-size: 20px;
+}
+
+h3, h4 {
+    margin-bottom: 0.3em;
+}
+
 nav {
-    font-weight: bold;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    width: 100%;
-    max-width: 700px;
-    margin: auto;
-    font-size: 1.25rem;
-    margin-bottom: 1rem;
-    color: #d0d0d0;
-}
-h2, h3, h4 {
-    margin: 0;
-}
-
-.main-content {
-    font-size: 1em;
-}
-
-.main-content h3, .main-content h4 {
-    margin: 0.25rem;
-}
-
-.main-content h3 {
-    font-weight: bold;
-}
-.main-content h3 a, .main-content h4 a {
-    color: #159957;
-}
-
-.project-name {
-    font-size: 2rem;
-}
-
-.page-header {
-    padding: 1rem;
-}
-
-nav a {
-    color: #d0d0d0;
+    font-size: 18px;
 }
 
 .footnotes {
     font-size: x-small;
+}
+
+header {
+    text-align: right;
 }
   
 sup {
@@ -76,19 +49,5 @@ sup {
  }
 
 footer {
-    width: 100%;
-    text-align: center;
-    font-size: x-small;
-    padding: 2em;
-}
-
-.two-columns {
-    align-items: flex-start;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.main-content {
-    padding-bottom: 0em;
+    font-size: small;
 }

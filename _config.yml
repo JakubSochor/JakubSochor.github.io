@@ -18,13 +18,15 @@ footer_name: Ing. Jakub Sochor, Ph.D.
 email: jakub@sochor.me
 description: Jakub Sochor
 url: "https://sochor.me" # the base hostname & protocol for your site, e.g. http://example.com
+
 google_analytics: UA-163991567-1
+logo: assets/images/portrait.jpeg
 
 # Build settings
 markdown: kramdown
 kramdown:
   footnote_backlink: ""
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

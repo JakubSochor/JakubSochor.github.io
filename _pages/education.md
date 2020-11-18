@@ -2,7 +2,7 @@
 title: Education
 permalink: /education
 ---
-### [Brno University of Technology, Faculty of Information Technology](https://www.fit.vut.cz)
+### Brno University of Technology, Faculty of Information Technology
 #### Ph.D. <span class="time-span">(06/2014 – 06/2018)</span>
  - Focus on Computer Vision and Machine Learning methods 
  - [Publications]({% link _pages/publications.md %}) in top journals and conferences (CVPR, CVIU, BMVC, IEEE T-ITS)
@@ -23,7 +23,7 @@ permalink: /education
  - Field of study: Information Technology
  - Thesis topic: *Fast Detection of Traffic Signs in Image*
 
-### [Nicolas Copernicus Grammar School](https://www.gmk.cz)
+### Nicolas Copernicus Grammar School
 #### Secondary Education <span class="time-span">(09/2005 - 06/2009)</span>
  - Grammar school focused on math
  

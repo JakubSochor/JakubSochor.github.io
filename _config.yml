@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ing. Jakub Sochor, Ph.D.
+title: Jakub Sochor
 footer_name: Ing. Jakub Sochor, Ph.D.
 email: jakub@sochor.me
 description: Jakub Sochor
@@ -26,7 +26,6 @@ logo: assets/images/portrait.jpeg
 markdown: kramdown
 kramdown:
   footnote_backlink: ""
-theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
@@ -36,7 +35,7 @@ defaults:
     scope:
       path: "" # all files
     values:
-      layout: "resume"
+      layout: "default"
 
 
 

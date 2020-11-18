@@ -1,4 +1,5 @@
 ---
+title: About Me
 ---
 <p align="justify">
 I am originally from the Czech Republic where I studied at Brno University of Technology. 

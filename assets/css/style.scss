@@ -1,35 +1,91 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css";
 
-h1 {
-    font-size: 20px;
+$link-color: #3e85b8;
+$papers-notes-color: #834846;
+$menu-color: #001e5f;
+$background-color: #F7F9FB;
+$text-color: #202020;
+$heading-color: black;
+
+body {
+    padding: 0.5em;
+    font-family: "Computer Modern Sans", sans-serif;
+    background-color: $background-color;
+    color: $text-color;
+}
+h1, h2, h3, h4, h5 {
+    color: $heading-color;
+}
+.page {
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
-h3, h4 {
-    margin-bottom: 0.3em;
+.content {
+    display: flex;
+    flex-direction: row;
 }
 
-nav {
-    font-size: 18px;
-}
-
-.footnotes {
-    font-size: x-small;
+.portrait {
+    margin-top: 1em;
+    width: 200px;
 }
 
 header {
+    width: 250px;
+    margin-right: 30px;
     text-align: right;
 }
-  
-sup {
-    font-size: x-small;
-    vertical-align: super;
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+header a, header a:hover, header a:visited {
+    color: $menu-color;
+}
+
+a, a:hover, a:visited {
+    color: $link-color;
+    text-decoration: none;
+}
+
+h3, h4 {
+    margin: 0;
+}
+
+nav {
+    text-align: right;
+    width: fit-content;
+    font-size: 1.3em;
+}
+
+header a {
+    text-decoration: none;
+}
+
+section {
+    width: 100%;
+}
+
+footer {
+    text-align: right;
+    font-size: small;
 }
 
 .paper-notes {
-    color: #159957;
+    color: $papers-notes-color;
     font-weight: normal;
 }
 
@@ -44,10 +100,34 @@ sup {
 .time-span {
     font-weight: normal;
     font-size: 0.8em;
-    color: #606c71;
-    padding-left: 0.5em;
+    color: #746a62;
+    padding-left: 0.1em;
  }
 
-footer {
-    font-size: small;
+@media print, screen and (max-width: 600px) {
+  .page {
+      width: 100%;
+  }
+  header {
+      margin: 0;
+      text-align: center;
+      width: 100%;
+  }
+  .content {
+      flex-direction: column;
+  }
+  .links {
+      width: 100%;
+      flex-direction: row-reverse;
+      justify-content: center;
+      align-items: flex-start;
+  }
+  .portrait {
+      width: 40%;
+      margin-right: 5%;
+      margin-top: 0;
+  }
+  nav {
+      text-align: left;
+  }
 }

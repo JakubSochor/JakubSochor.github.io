@@ -10,14 +10,14 @@ permalink: /education
  - Thesis topic: *Automatic Traffic Video Surveillance: Fine-Grained Recognition of Vehicles and Automatic Speed Measurement*
  
 #### Master's degree <span class="time-span">(09/2012 – 06/2014)</span>
- - Graduated with honors
+ - Graduated with honours
  - Weighted Average Mark: 1.192[^1]
  - Scholarship for excellence granted during the study
  - Field of study: Mathematical Methods in Information Technology 
  - Thesis topic: *Traffic Analysis from Video*
   
 #### Bachelor's degree <span class="time-span">(09/2009 – 06/2012)</span>
- - Graduated with honors
+ - Graduated with honours
  - Weighted Average Mark: 1.358[^1]
  - Scholarships for excellence granted repeatedly during the study 
  - Field of study: Information Technology

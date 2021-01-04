@@ -10,8 +10,8 @@ permalink: /other
 
 ### Programming Skills
 **Programming languages:**  Python, C++ \\
-**Libraries:** Tensorflow, NumPy+SciPy\\
-**Tools:** Git, Docker \\
+**Libraries:** Tensorflow, NumPy+SciPy, Abseil\\
+**Tools:** Git, Docker, Bazel \\
 **Concepts:** MapReduce, Microservices 
 
 

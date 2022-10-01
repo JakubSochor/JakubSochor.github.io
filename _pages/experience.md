@@ -3,8 +3,17 @@ title: Professional Experience
 permalink: /experience
 ---
 
+### Innovatrics
+#### AI Solution Expert / Teamleader <span class="time-span">(06/2021 - present, Brno)</span>
+ - I was a team leader of a Fingerprints Team with 7 team members
+ - The team worked on fingerprints verification, identification, detection, etc.
+ - While I led the team, multiple novel solutions were implemented and deployed - for example:
+   - Fingerprints verification heavily utilising neural networks outperforming all the other industry solutions as verified by the first place in [NIST MINEX benchmark](https://www.nist.gov/itl/iad/image-group/minutiae-interoperability-exchange-minex-iii)
+   - Fingerprints identification based on neural networks outperforming the previous solution both in accuracy and speed (100x speed up)
+ - I also led infrastructure, quality checks, and shared code improvements across the whole R&D deparment 
+
 ### Google
-#### Software Engineer -- level 4 <span class="time-span">(08/2019 - present, Zurich)</span>
+#### Software Engineer -- level 4 <span class="time-span">(08/2019 - 03/2021, Zurich)</span>
  - I was a member of Proactive Google Assistant
  - I **owned and led** various projects that applied Machine Learning methods
  - Other, more junior, team members have worked on the projects that I have led; therefore, I was responsible also for the coordination of the project work and communicating the status to stakeholders
